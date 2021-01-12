@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    //"myDb": "Server=.\\SQLEXPRESS;Database=myappweb;User Id=WINDEV2008EVAL\\myappweb;password=Pietraga38;Trusted_Connection=True;MultipleActiveResultSets=true"
+    "myDb": "Server=.\\SQLEXPRESS;Database=mywebapp;User Id=WINDEV2008EVAL\\mywebapp;password=Pietraga38;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
